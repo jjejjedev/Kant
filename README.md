@@ -27,5 +27,5 @@
 ```sh
 git init
 git config --list
-git confit --global user.email "jje.dev@gmail.com"
+git confit --global user.email "jjejje.gmail.com"
 ```
